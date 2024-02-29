@@ -12,7 +12,7 @@ post:
 
 
 # SNS settings
-RSS: false
+RSS: true
 github_username:    hql0312
 
 
